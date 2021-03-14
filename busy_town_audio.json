@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json",
+  "id": "https://raw.githubusercontent.com/mixterj/iiif-manifest-busy-town/master/busy_town_audio.json",
   "type": "Manifest",
   "label": {
     "en": [
