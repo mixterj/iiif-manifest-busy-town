@@ -13,7 +13,7 @@
       "type": "Canvas",
       "height": 1800,
       "width": 1200,
-      "duration" : "5",
+      "duration" : 5,
       "behavior" : ["auto-advance"],
       "items": [
         {
@@ -42,7 +42,7 @@
       "type": "Canvas",
       "height": 1800,
       "width": 1200,
-      "duration" : "5",
+      "duration" : 5,
       "behavior" : ["auto-advance"],
       "items": [
         {
