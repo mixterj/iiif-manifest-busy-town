@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.org/iiif/busy-town/manifest",
+  "id": "https://raw.githubusercontent.com/mixterj/iiif-manifest-busy-town/master/busy_town.json",
   "type": "Manifest",
   "label": { "en": [ "Busy Town page 6" ] },
   "metadata": [
