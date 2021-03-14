@@ -15,7 +15,6 @@
       "height": 1800,
       "width": 1200,
       "duration" : 5,
-      "behavior" : ["auto-advance"],
       "items": [
         {
           "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p1/1",
@@ -44,7 +43,6 @@
       "height": 1800,
       "width": 1200,
       "duration" : 5,
-      "behavior" : ["auto-advance"],
       "items": [
         {
           "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p2/1",
