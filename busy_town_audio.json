@@ -1,0 +1,37 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Busy Town Page 6"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/canvas",
+      "type": "Canvas",
+      "duration": 1985.024,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://github.com/mixterj/iiif-manifest-busy-town/raw/master/page-6.m4a",
+                "type": "Sound",
+                "format": "audio/mp4",
+                "duration": 1985.024
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0002-mvm-audio/canvas/page"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
