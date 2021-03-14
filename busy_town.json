@@ -7,7 +7,7 @@
       "Busy Town Page 6"
     ]
   },
-  "behavior" : ["auto-advance"],
+  "behavior" : ["continuous"],
   "items": [
     {
       "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p1",
