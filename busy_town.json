@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://example.org/iiif/busy-town/manifest",
   "type": "Manifest",
-  "label": { "en": [ "Book 1" ] },
+  "label": { "en": [ "Busy Town page 6" ] },
   "metadata": [
     {
       "label": { "en": [ "Author" ] },
@@ -29,7 +29,7 @@
       "value": { "none": [ "<span>From: <a href=\"https://example.org/db/1.html\">Some Collection</a></span>" ] }
     }
   ],
-  "summary": { "en": [ "Book 1, written be Anne Author, published in Paris around 1400." ] },
+  "summary": { "en": [ "Busy Town Page 6" ] },
 
   "thumbnail": [
     {
